@@ -17,7 +17,7 @@
     display: inline-block;
     width: var(--width);
     height: var(--width);
-    border-radius: 999px;
+    border-radius: 50px;
     overflow: hidden;
     box-shadow: 0 0 5px 0 #00000030
 }
